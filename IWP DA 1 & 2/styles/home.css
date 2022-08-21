@@ -1,0 +1,13 @@
+body{
+	background-color: #680b8a;
+	color: white;
+}
+body > div > ul > a{
+	color: white;
+}
+h1{
+	color: #92fca6;
+}
+h3{
+	color: #f06060;
+}
